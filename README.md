@@ -13,9 +13,43 @@ Run the `Main` class to generate random shapes and calculate their surface area 
 
 ## Sample Output
 ```
-Sphere (Radius: 5.23) Surface Area: 343.36 Volume: 597.95
-
-Cylinder (Radius: 3.45, Height: 12.78) Surface Area: 350.74 Volume: 477.17
-
-Cube (Side: 7.22) Surface Area: 313.51 Volume: 376.03
+Cube (Side: 2.24)
+Surface Area: 30.18
+Volume: 11.28
+------------
+Cube (Side: 9.44)
+Surface Area: 534.34
+Volume: 840.43
+------------
+Cube (Side: 9.40)
+Surface Area: 530.38
+Volume: 831.10
+------------
+Cylinder (Radius: 6.49, Height: 13.66)
+Surface Area: 821.23
+Volume: 1806.07
+------------
+Sphere (Radius: 4.48)
+Surface Area: 251.78
+Volume: 375.66
+------------
+Cube (Side: 1.82)
+Surface Area: 19.96
+Volume: 6.07
+------------
+Cube (Side: 3.39)
+Surface Area: 68.96
+Volume: 38.96
+------------
+Cylinder (Radius: 2.76, Height: 13.33)
+Surface Area: 279.07
+Volume: 319.10
+------------
+Sphere (Radius: 5.30)
+Surface Area: 352.87
+Volume: 623.30
+------------
+Sphere (Radius: 3.84)
+Surface Area: 185.72
+Volume: 237.99
 ```
